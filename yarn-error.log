@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/bin/node /usr/bin/yarn add promise-polyfill --no-bin-links
+  /usr/bin/node /usr/bin/yarn add moment
 
 PATH: 
   /home/vagrant/.composer/vendor/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-10-oracle/bin:/usr/lib/jvm/java-10-oracle/db/bin
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: ENOENT: no such file or directory, lstat '/home/vagrant/Code/garfield-bbs-weapp/node_modules/promise-polyfill/test'
+  Error: Unknown system error -116: Unknown system error -116, unlink '/home/vagrant/Code/garfield-bbs-weapp/node_modules/caw/node_modules'
 
 npm manifest: 
   {
